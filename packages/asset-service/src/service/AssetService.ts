@@ -1,4 +1,4 @@
-import { adapters, AssetId, ChainId } from '@shapeshiftoss/caip'
+import { adapters, AssetId, ChainId } from '@keepkey/caip'
 import axios from 'axios'
 import Polyglot from 'node-polyglot'
 
@@ -29,7 +29,7 @@ export class AssetService {
   private readonly assets: AssetsById
 
   constructor() {
-    this.assets = localAssetData as AssetsById
+    this.assets = localAssetData as any
   }
 
   getAll(): AssetsById {
