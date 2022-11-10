@@ -68,17 +68,16 @@ const generateAssetData = async () => {
   )
 
   // manual asset additions
-  //TODO replace this with mainnet keepkey token details
   const assetsWithAdditions = {
     ...assetsWithOverridesApplied,
-    ['eip155:1/erc20:0x8cd3bac9875b1945d1d3469947236d8971bf3174']: {
-      assetId: 'eip155:1/erc20:0x8cd3bac9875b1945d1d3469947236d8971bf3174',
+    ['eip155:1/erc20:0x168EF867E3009c1864103c746d399b66482536fF']: {
+      assetId: 'eip155:1/erc20:0x168EF867E3009c1864103c746d399b66482536fF',
       chainId: 'eip155:1',
-      name: 'Cool',
+      name: 'KeepKey Open Development Initiative',
       precision: 18,
-      color: '#3761F9',
-      icon: 'https://etherscan.io/token/images/coolcrypto2_28.png',
-      symbol: 'COOL',
+      color: '#343434',
+      icon: 'https://kodib.sfo3.digitaloceanspaces.com/kodo_logo.png',
+      symbol: 'KODI',
       explorer: 'https://etherscan.io',
       explorerAddressLink: 'https://etherscan.io/address/',
       explorerTxLink: 'https://etherscan.io/tx/',
