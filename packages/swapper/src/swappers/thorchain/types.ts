@@ -1,6 +1,6 @@
 import { ChainId } from '@keepkey/caip'
 import { ChainAdapterManager } from '@keepkey/chain-adapters'
-import type { BTCSignTx, CosmosSignTx, ETHSignTx } from '@shapeshiftoss/hdwallet-core'
+import type { BTCSignTx, CosmosSignTx, ETHSignTx } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 import type Web3 from 'web3'
 

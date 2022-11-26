@@ -7,8 +7,8 @@
  */
 
 import { ltcAssetId, ltcChainId } from '@keepkey/caip'
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
-import { NativeAdapterArgs, NativeHDWallet } from '@shapeshiftoss/hdwallet-native'
+import { HDWallet } from '@keepkey/hdwallet-core'
+import { NativeAdapterArgs, NativeHDWallet } from '@keepkey/hdwallet-native'
 import { BIP44Params, KnownChainIds, UtxoAccountType } from '@keepkey/types'
 
 import { Account, BuildSendTxInput } from '../../types'

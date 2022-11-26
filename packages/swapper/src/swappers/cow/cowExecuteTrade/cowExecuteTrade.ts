@@ -1,6 +1,6 @@
 import { ethAssetId, fromAssetId } from '@keepkey/caip'
 import { ethereum, SignMessageInput, toAddressNList } from '@keepkey/chain-adapters'
-import { ETHSignMessage } from '@shapeshiftoss/hdwallet-core'
+import { ETHSignMessage } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 import { AxiosResponse } from 'axios'
 import { ethers } from 'ethers'

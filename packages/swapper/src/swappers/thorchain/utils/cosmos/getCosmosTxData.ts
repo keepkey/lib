@@ -1,7 +1,7 @@
 import { Asset } from '@keepkey/asset-service'
 import { ChainId, cosmosAssetId } from '@keepkey/caip'
 import { ChainAdapter, cosmos, thorchain } from '@keepkey/chain-adapters'
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import { BIP44Params, KnownChainIds } from '@keepkey/types'
 
 import { SwapError, SwapErrorTypes, TradeQuote } from '../../../../api'

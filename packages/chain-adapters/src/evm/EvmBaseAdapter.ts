@@ -4,7 +4,7 @@ import {
   ETHSignTx,
   ETHWallet,
   supportsEthSwitchChain,
-} from '@shapeshiftoss/hdwallet-core'
+} from '@keepkey/hdwallet-core'
 import { BIP44Params, KnownChainIds } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 import WAValidator from 'multicoin-address-validator'

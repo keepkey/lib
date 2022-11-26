@@ -1,5 +1,5 @@
 import { ethereum } from '@keepkey/chain-adapters'
-import { NativeAdapterArgs, NativeHDWallet } from '@shapeshiftoss/hdwallet-native'
+import { NativeAdapterArgs, NativeHDWallet } from '@keepkey/hdwallet-native'
 import * as unchained from '@keepkey/unchained-client'
 import dotenv from 'dotenv'
 

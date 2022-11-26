@@ -14,8 +14,8 @@ import {
   BTCSignTx,
   BTCWallet,
   HDWallet,
-} from '@shapeshiftoss/hdwallet-core'
-import { NativeAdapterArgs, NativeHDWallet } from '@shapeshiftoss/hdwallet-native'
+} from '@keepkey/hdwallet-core'
+import { NativeAdapterArgs, NativeHDWallet } from '@keepkey/hdwallet-native'
 import { BIP44Params, KnownChainIds, UtxoAccountType } from '@keepkey/types'
 
 import { Account, BuildSendTxInput } from '../../types'

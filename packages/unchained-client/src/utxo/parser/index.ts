@@ -1,5 +1,5 @@
 import { AssetId, ChainId } from '@keepkey/caip'
-import type { utxo } from '@shapeshiftoss/common-api'
+import type { utxo } from '@keepkey/common-api'
 import { BigNumber } from 'bignumber.js'
 
 import { ParsedTx, TransferType, TxStatus } from '../../types'

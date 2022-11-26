@@ -1,5 +1,5 @@
 import { ASSET_REFERENCE, AssetId, ethAssetId, fromAssetId } from '@keepkey/caip'
-import { ETHSignTx } from '@shapeshiftoss/hdwallet-core'
+import { ETHSignTx } from '@keepkey/hdwallet-core'
 import { BIP44Params, KnownChainIds } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 import axios from 'axios'

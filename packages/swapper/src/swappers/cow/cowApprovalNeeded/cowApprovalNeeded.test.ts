@@ -1,4 +1,4 @@
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 import Web3 from 'web3'
 

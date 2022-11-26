@@ -1,11 +1,11 @@
-# @shapeshiftoss/market-service
+# @keepkey/market-service
 
 > Getting market data through multiple different APIs
 
 ## Usage
 
 ```typescript
-import { getDefaultMarketService } from '@shapeshiftoss/market-service'
+import { getDefaultMarketService } from '@keepkey/market-service'
 
 const getAssetData = async () => {
     const assetData = await getDefaultMarketService().getAssetData(network, contractAddress)

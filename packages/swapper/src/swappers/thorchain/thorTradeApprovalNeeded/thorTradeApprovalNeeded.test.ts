@@ -1,4 +1,4 @@
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 
 import { ApprovalNeededInput } from '../../../api'

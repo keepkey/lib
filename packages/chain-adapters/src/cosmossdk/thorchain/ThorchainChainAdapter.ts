@@ -1,5 +1,5 @@
 import { ASSET_REFERENCE, AssetId, thorchainAssetId } from '@keepkey/caip'
-import { supportsThorchain, ThorchainSignTx } from '@shapeshiftoss/hdwallet-core'
+import { supportsThorchain, ThorchainSignTx } from '@keepkey/hdwallet-core'
 import { BIP44Params, KnownChainIds } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 

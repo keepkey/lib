@@ -39,7 +39,7 @@
     "@keepkey/chain-adapters": "^10.0.0",
     "@keepkey/investor": "^3.0.0",
     "@keepkey/types": "^8.3.1",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0"
+    "@keepkey/hdwallet-core": "^1.36.0"
   },
   "devDependencies": {
     "@keepkey/caip": "^8.4.5",
@@ -47,6 +47,6 @@
     "@keepkey/investor": "^3.0.2",
     "@keepkey/types": "^8.3.3",
     "@keepkey/unchained-client": "^10.3.1",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0"
+    "@keepkey/hdwallet-core": "^1.36.0"
   }
 }

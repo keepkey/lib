@@ -1,19 +1,19 @@
-# @shapeshiftoss/logger
+# @keepkey/logger
 
 ShapeShift DAO's simple logging library.
 
 ## Installation
 
 ```bash
-yarn add @shapeshiftoss/logger
+yarn add @keepkey/logger
 # or
-npm i @shapeshiftoss/logger
+npm i @keepkey/logger
 ```
 
 ## Initialization
 
 ```javascript
-import { Logger } from '@shapeshiftoss/logger'
+import { Logger } from '@keepkey/logger'
 
 const logger = new Logger({
   // name of the app or service
@@ -34,8 +34,8 @@ By default, the Logger will log a `JSON` string to the `console`.
 You can customize this by providing a `logFn` option to the Logger constructor.
 
 ```ts
-import { Logger } from '@shapeshiftoss/logger'
-import type { LogLevel, LogData } from '@shapeshiftoss/logger'
+import { Logger } from '@keepkey/logger'
+import type { LogLevel, LogData } from '@keepkey/logger'
 
 const logger = new Logger({
   name: 'MyAppLogger',

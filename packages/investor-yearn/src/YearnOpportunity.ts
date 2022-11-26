@@ -1,6 +1,6 @@
 import { toAssetId } from '@keepkey/caip'
 import { ChainAdapter, toAddressNList } from '@keepkey/chain-adapters'
-import { ETHSignTx, HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { ETHSignTx, HDWallet } from '@keepkey/hdwallet-core'
 import {
   ApprovalRequired,
   DepositWithdrawArgs,

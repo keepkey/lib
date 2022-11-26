@@ -1,5 +1,5 @@
 import { Asset } from '@keepkey/asset-service'
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 
 import { BuildTradeInput, GetTradeQuoteInput, TradeQuote } from '../../../api'

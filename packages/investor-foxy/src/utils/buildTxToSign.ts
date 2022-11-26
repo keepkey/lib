@@ -1,5 +1,5 @@
 import { toAddressNList } from '@keepkey/chain-adapters'
-import { ETHSignTx } from '@shapeshiftoss/hdwallet-core'
+import { ETHSignTx } from '@keepkey/hdwallet-core'
 import { BIP44Params } from '@keepkey/types'
 import { numberToHex } from 'web3-utils'
 

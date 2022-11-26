@@ -1,6 +1,6 @@
 import { Asset } from '@keepkey/asset-service'
 import { fromAssetId } from '@keepkey/caip'
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import Web3 from 'web3'
 import { AbiItem, numberToHex } from 'web3-utils'
 

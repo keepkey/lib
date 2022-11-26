@@ -1,23 +1,23 @@
-# [@shapeshiftoss/investor-idle-v2.1.5](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.1.4...@shapeshiftoss/investor-idle-v2.1.5) (2022-10-19)
+# [@keepkey/investor-idle-v2.1.5](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.1.4...@keepkey/investor-idle-v2.1.5) (2022-10-19)
 
-# [@shapeshiftoss/investor-idle-v2.1.4](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.1.3...@shapeshiftoss/investor-idle-v2.1.4) (2022-10-13)
+# [@keepkey/investor-idle-v2.1.4](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.1.3...@keepkey/investor-idle-v2.1.4) (2022-10-13)
 
-# [@shapeshiftoss/investor-idle-v2.1.3](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.1.2...@shapeshiftoss/investor-idle-v2.1.3) (2022-10-12)
+# [@keepkey/investor-idle-v2.1.3](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.1.2...@keepkey/investor-idle-v2.1.3) (2022-10-12)
 
-# [@shapeshiftoss/investor-idle-v2.1.2](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.1.1...@shapeshiftoss/investor-idle-v2.1.2) (2022-09-16)
+# [@keepkey/investor-idle-v2.1.2](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.1.1...@keepkey/investor-idle-v2.1.2) (2022-09-16)
 
-# [@shapeshiftoss/investor-idle-v2.1.1](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.1.0...@shapeshiftoss/investor-idle-v2.1.1) (2022-09-16)
+# [@keepkey/investor-idle-v2.1.1](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.1.0...@keepkey/investor-idle-v2.1.1) (2022-09-16)
 
-# [@shapeshiftoss/investor-idle-v2.1.0](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.0.1...@shapeshiftoss/investor-idle-v2.1.0) (2022-09-12)
+# [@keepkey/investor-idle-v2.1.0](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.0.1...@keepkey/investor-idle-v2.1.0) (2022-09-12)
 
 
 ### Features
 
 * add THORChain support ([#1010](https://github.com/shapeshift/lib/issues/1010)) ([d7c3b72](https://github.com/shapeshift/lib/commit/d7c3b72bbda9795f87fa8f73c35926c95026a3c2))
 
-# [@shapeshiftoss/investor-idle-v2.0.1](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v2.0.0...@shapeshiftoss/investor-idle-v2.0.1) (2022-09-02)
+# [@keepkey/investor-idle-v2.0.1](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v2.0.0...@keepkey/investor-idle-v2.0.1) (2022-09-02)
 
-# [@shapeshiftoss/investor-idle-v2.0.0](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v1.1.1...@shapeshiftoss/investor-idle-v2.0.0) (2022-09-02)
+# [@keepkey/investor-idle-v2.0.0](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v1.1.1...@keepkey/investor-idle-v2.0.0) (2022-09-02)
 
 
 ### Features
@@ -38,16 +38,16 @@
 
 Co-authored-by: Apotheosis <97164662+0xApotheosis@users.noreply.github.com>
 
-# [@shapeshiftoss/investor-idle-v1.1.1](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v1.1.0...@shapeshiftoss/investor-idle-v1.1.1) (2022-08-15)
+# [@keepkey/investor-idle-v1.1.1](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v1.1.0...@keepkey/investor-idle-v1.1.1) (2022-08-15)
 
-# [@shapeshiftoss/investor-idle-v1.1.0](https://github.com/shapeshift/lib/compare/@shapeshiftoss/investor-idle-v1.0.0...@shapeshiftoss/investor-idle-v1.1.0) (2022-08-09)
+# [@keepkey/investor-idle-v1.1.0](https://github.com/shapeshift/lib/compare/@keepkey/investor-idle-v1.0.0...@keepkey/investor-idle-v1.1.0) (2022-08-09)
 
 
 ### Features
 
 * idle-investor final ([#955](https://github.com/shapeshift/lib/issues/955)) ([564ba23](https://github.com/shapeshift/lib/commit/564ba23a92ce4086917bac366e1bd6d419de3306))
 
-# @shapeshiftoss/investor-idle-v1.0.0 (2022-08-04)
+# @keepkey/investor-idle-v1.0.0 (2022-08-04)
 
 
 ### Features

@@ -1,5 +1,5 @@
 import { ethereum } from '@keepkey/chain-adapters'
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 import { AxiosStatic } from 'axios'

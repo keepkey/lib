@@ -1,4 +1,4 @@
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import type Web3 from 'web3'
 
 import { EvmSupportedChainAdapters, EvmSupportedChainIds, SwapSource, Trade } from '../../api'

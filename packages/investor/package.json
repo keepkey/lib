@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@keepkey/types": "^8.3.3",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
+    "@keepkey/hdwallet-core": "^1.36.0",
     "bignumber.js": "^9.0.2"
   }
 }

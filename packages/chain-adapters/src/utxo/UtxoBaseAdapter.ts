@@ -7,7 +7,7 @@ import {
   HDWallet,
   PublicKey,
   supportsBTC,
-} from '@shapeshiftoss/hdwallet-core'
+} from '@keepkey/hdwallet-core'
 import { BIP44Params, KnownChainIds, UtxoAccountType } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 import WAValidator from 'multicoin-address-validator'

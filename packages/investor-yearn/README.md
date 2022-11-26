@@ -1,20 +1,20 @@
-# @shapeshiftoss/investor-yearn
+# @keepkey/investor-yearn
 
 ShapeShift's Yearn investor package.
 
 ## Installation
 
 ```bash
-yarn add @shapeshiftoss/investor-yearn
+yarn add @keepkey/investor-yearn
 ```
 
 ## Initialization
 
 ```javascript
-import { YearnVaultApi } from '@shapeshiftoss/investor-yearn'
+import { YearnVaultApi } from '@keepkey/investor-yearn'
 
 const api = new YearnVaultApi({
-  adapter: adapters.byChainId(KnownChainIds.EthereumMainnet), // adapter is an ETH @shapeshiftoss/chain-adapters
+  adapter: adapters.byChainId(KnownChainIds.EthereumMainnet), // adapter is an ETH @keepkey/chain-adapters
   providerUrl: '<your eth node privider url>'
 })
 await api.initialize()

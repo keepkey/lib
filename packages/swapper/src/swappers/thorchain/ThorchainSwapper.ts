@@ -8,7 +8,7 @@ import {
   thorchainAssetId,
 } from '@keepkey/caip'
 import { cosmos, EvmBaseAdapter, UtxoBaseAdapter } from '@keepkey/chain-adapters'
-import { BTCSignTx, CosmosSignTx, ETHSignTx } from '@shapeshiftoss/hdwallet-core'
+import { BTCSignTx, CosmosSignTx, ETHSignTx } from '@keepkey/hdwallet-core'
 import { KnownChainIds } from '@keepkey/types'
 
 import type {

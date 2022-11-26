@@ -1,20 +1,20 @@
-# @shapeshiftoss/investor-idle
+# @keepkey/investor-idle
 
 ShapeShift's Idle investor package.
 
 ## Installation
 
 ```bash
-yarn add @shapeshiftoss/investor-idle
+yarn add @keepkey/investor-idle
 ```
 
 ## Initialization
 
 ```javascript
-import { IdleVaultApi } from '@shapeshiftoss/investor-idle'
+import { IdleVaultApi } from '@keepkey/investor-idle'
 
 const api = new IdleVaultApi({
-  adapter: adapters.byChainId(KnownChainIds.EthereumMainnet), // adapter is an ETH @shapeshiftoss/chain-adapters
+  adapter: adapters.byChainId(KnownChainIds.EthereumMainnet), // adapter is an ETH @keepkey/chain-adapters
   providerUrl: '<your eth node privider url>'
 })
 await api.initialize()

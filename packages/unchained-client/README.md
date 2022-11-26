@@ -1,4 +1,4 @@
-# @shapeshiftoss/unchained-client
+# @keepkey/unchained-client
 
 Provides a TypeScript axios client to interact with all supported unchained APIs.
 
@@ -7,13 +7,13 @@ Provides a TypeScript axios client to interact with all supported unchained APIs
 Using npm:
 
 ```sh
-npm install @shapeshiftoss/unchained-client
+npm install @keepkey/unchained-client
 ```
 
 Using yarn:
 
 ```sh
-yarn add @shapeshiftoss/unchained-client
+yarn add @keepkey/unchained-client
 ```
 
 ## Resources
@@ -24,7 +24,7 @@ yarn add @shapeshiftoss/unchained-client
 ## Usage
 
 ```typescript
-import * as unchained from '@shapeshiftoss/unchained-client'
+import * as unchained from '@keepkey/unchained-client'
 
 const address = 'cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd'
 

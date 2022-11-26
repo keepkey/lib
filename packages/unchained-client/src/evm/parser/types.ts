@@ -1,4 +1,4 @@
-import type { evm } from '@shapeshiftoss/common-api'
+import type { evm } from '@keepkey/common-api'
 
 import { StandardTx } from '../../types'
 import * as cowswap from '../ethereum/parser/cowswap'

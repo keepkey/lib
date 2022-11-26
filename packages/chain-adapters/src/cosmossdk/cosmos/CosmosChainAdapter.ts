@@ -1,5 +1,5 @@
 import { ASSET_REFERENCE, AssetId, cosmosAssetId } from '@keepkey/caip'
-import { CosmosSignTx, supportsCosmos } from '@shapeshiftoss/hdwallet-core'
+import { CosmosSignTx, supportsCosmos } from '@keepkey/hdwallet-core'
 import { BIP44Params, KnownChainIds } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 

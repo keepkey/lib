@@ -6,7 +6,7 @@ import {
   HDWallet,
   OsmosisSignTx,
   ThorchainSignTx,
-} from '@shapeshiftoss/hdwallet-core'
+} from '@keepkey/hdwallet-core'
 import { BIP44Params, ChainSpecific, KnownChainIds, UtxoAccountType } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 

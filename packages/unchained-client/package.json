@@ -35,7 +35,7 @@
     "@keepkey/logger": "^1.1.4",
     "@keepkey/types": "^8.3.3",
     "@openapitools/openapi-generator-cli": "^2.5.1",
-    "@shapeshiftoss/common-api": "^8.0.0",
+    "@keepkey/common-api": "^8.0.0",
     "@types/ws": "^8.2.1"
   }
 }

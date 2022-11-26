@@ -6,7 +6,7 @@ import {
   dogeChainId,
   ltcChainId,
 } from '@keepkey/caip'
-import { BTCInputScriptType, BTCOutputScriptType } from '@shapeshiftoss/hdwallet-core'
+import { BTCInputScriptType, BTCOutputScriptType } from '@keepkey/hdwallet-core'
 import { BIP44Params, UtxoAccountType } from '@keepkey/types'
 import { decode, encode } from 'bs58check'
 

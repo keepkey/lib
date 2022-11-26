@@ -1,4 +1,4 @@
-export type { utxo as types } from '@shapeshiftoss/common-api'
+export type { utxo as types } from '@keepkey/common-api'
 export { BaseTransactionParser } from './parser'
 
 export * as bitcoin from './bitcoin'
