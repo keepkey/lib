@@ -1,4 +1,4 @@
-# @shapeshiftoss/asset-service
+# @keepkey/asset-service
 
 This service provides all the information needed to support an asset in the shapeshift open source app.
 

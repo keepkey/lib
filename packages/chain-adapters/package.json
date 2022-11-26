@@ -1,6 +1,6 @@
 {
   "name": "@keepkey/chain-adapters",
-  "version": "10.2.1",
+  "version": "10.2.2",
   "description": "> TODO: description",
   "homepage": "",
   "license": "MIT",
@@ -38,18 +38,18 @@
   },
   "peerDependencies": {
     "@keepkey/caip": "^8.0.0",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
-    "@shapeshiftoss/hdwallet-native": "^1.36.0",
+    "@keepkey/hdwallet-core": "^1.36.0",
+    "@keepkey/hdwallet-native": "^1.36.0",
     "@keepkey/types": "^8.1.0",
     "@keepkey/unchained-client": "^10.0.1",
     "bs58check": "^2.0.2"
   },
   "devDependencies": {
-    "@keepkey/caip": "^8.0.0",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
-    "@shapeshiftoss/hdwallet-native": "^1.36.0",
-    "@keepkey/types": "^8.1.0",
-    "@keepkey/unchained-client": "^10.0.1",
+    "@keepkey/caip": "^8.4.5",
+    "@keepkey/hdwallet-core": "^1.36.0",
+    "@keepkey/hdwallet-native": "^1.36.0",
+    "@keepkey/types": "^8.3.3",
+    "@keepkey/unchained-client": "^10.3.1",
     "@types/bs58check": "^2.1.0",
     "@types/multicoin-address-validator": "^0.5.0"
   }

@@ -1,7 +1,7 @@
 import { AssetService } from '@keepkey/asset-service'
 import { CHAIN_NAMESPACE, ethChainId, fromAssetId } from '@keepkey/caip'
 import { bitcoin, ethereum, UtxoBaseAdapter, UtxoChainId } from '@keepkey/chain-adapters'
-import { NativeAdapterArgs, NativeHDWallet } from '@shapeshiftoss/hdwallet-native'
+import { NativeAdapterArgs, NativeHDWallet } from '@keepkey/hdwallet-native'
 import { UtxoAccountType } from '@keepkey/types'
 import BigNumber from 'bignumber.js'
 import dotenv from 'dotenv'

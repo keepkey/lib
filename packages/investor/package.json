@@ -1,6 +1,6 @@
 {
   "name": "@keepkey/investor",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A core abstraction for single-sided staking plugins",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,8 +26,8 @@
     "test": "jest --coverage"
   },
   "devDependencies": {
+    "@keepkey/types": "^8.3.3",
     "@shapeshiftoss/hdwallet-core": "^1.36.0",
-    "@keepkey/types": "8.3.2",
     "bignumber.js": "^9.0.2"
   }
 }

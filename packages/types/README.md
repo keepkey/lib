@@ -1,13 +1,13 @@
-# @shapeshiftoss/types
+# @keepkey/types
 
 ## Getting Started
 
 ```sh
-yarn add @shapeshiftoss/types
+yarn add @keepkey/types
 ```
 
 ## Usage
 
 ```ts
-import { Asset, UtxoAccountType } from '@shapeshiftoss/types'
+import { Asset, UtxoAccountType } from '@keepkey/types'
 ```

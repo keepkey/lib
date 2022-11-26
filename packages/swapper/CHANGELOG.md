@@ -1,4 +1,4 @@
-# [@shapeshiftoss/swapper-v14.2.0](https://github.com/shapeshift/lib/compare/@shapeshiftoss/swapper-v14.1.0...@shapeshiftoss/swapper-v14.2.0) (2022-11-03)
+# [@keepkey/swapper-v14.2.0](https://github.com/shapeshift/lib/compare/@keepkey/swapper-v14.1.0...@shapeshiftoss/swapper-v14.2.0) (2022-11-03)
 
 
 ### Features

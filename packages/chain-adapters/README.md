@@ -1,4 +1,4 @@
-# @shapeshiftoss/chain-adapters
+# @keepkey/chain-adapters
 
 > TODO: description
 

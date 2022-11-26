@@ -1,6 +1,6 @@
 {
   "name": "@keepkey/swapper",
-  "version": "14.2.0",
+  "version": "14.2.1",
   "description": "An interface and implementations to trade coins via various protocols",
   "repository": "https://github.com/shapeshift/lib",
   "license": "MIT",
@@ -34,19 +34,19 @@
     "@keepkey/caip": "^8.0.0",
     "@keepkey/chain-adapters": "^10.0.0",
     "@keepkey/errors": "^1.1.2",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
+    "@keepkey/hdwallet-core": "^1.36.0",
     "@keepkey/types": "^8.1.0"
   },
   "devDependencies": {
-    "@keepkey/asset-service": "^8.0.1",
-    "@keepkey/caip": "^8.0.0",
-    "@keepkey/chain-adapters": "^10.0.0",
-    "@keepkey/errors": "^1.1.2",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
-    "@keepkey/types": "^8.1.0",
+    "@keepkey/asset-service": "^8.1.7",
+    "@keepkey/caip": "^8.4.5",
+    "@keepkey/chain-adapters": "^10.2.2",
+    "@keepkey/errors": "^1.1.4",
+    "@keepkey/hdwallet-core": "^1.36.0",
+    "@keepkey/types": "^8.3.3",
+    "@keepkey/unchained-client": "^10.3.1",
     "@types/readline-sync": "^1.4.4",
     "readline-sync": "^1.4.10",
-    "web3-utils": "1.7.4",
-    "@keepkey/unchained-client": "^10.0.1"
+    "web3-utils": "1.7.4"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@keepkey/market-service",
-  "version": "7.1.3",
+  "version": "7.1.4",
   "description": "ShapeShift market data service",
   "homepage": "",
   "license": "MIT",
@@ -43,11 +43,11 @@
     "@keepkey/unchained-client": "^10.0.1"
   },
   "devDependencies": {
-    "@keepkey/caip": "^8.0.0",
-    "@keepkey/chain-adapters": "^10.0.0",
-    "@keepkey/investor-foxy": "^7.0.0",
-    "@keepkey/types": "^8.1.0",
-    "@keepkey/unchained-client": "^10.0.1",
+    "@keepkey/caip": "^8.4.5",
+    "@keepkey/chain-adapters": "^10.2.2",
+    "@keepkey/investor-foxy": "^7.0.3",
+    "@keepkey/types": "^8.3.3",
+    "@keepkey/unchained-client": "^10.3.1",
     "limiter": "^2.1.0"
   }
 }

@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { NativeAdapterArgs, NativeHDWallet } from '@shapeshiftoss/hdwallet-native'
+import { NativeAdapterArgs, NativeHDWallet } from '@keepkey/hdwallet-native'
 import { BIP44Params, UtxoAccountType } from '@keepkey/types'
 import * as unchained from '@keepkey/unchained-client'
 import dotenv from 'dotenv'

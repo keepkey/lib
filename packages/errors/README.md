@@ -1,4 +1,4 @@
-# @shapeshiftoss/errors
+# @keepkey/errors
 
 This package contains named errors and a function to create new named errors
 
@@ -10,14 +10,14 @@ which will cause `instanceof` checks to fail.
 ## Usage
 
 ```ts
-import { ValidationError } from '@shapeshiftoss/errors'
+import { ValidationError } from '@keepkey/errors'
 
 throw new ValidationError('txId cannot be null', { details: { name: 'txId', expected: 'not null', actual: 'null' }})
 ```
 
 ### Create a new named error
 ```ts
-import { createErrorClass } from '@shapeshiftoss/errors'
+import { createErrorClass } from '@keepkey/errors'
 
 const MyError = createErrorClass<{ myDetails: string }>('MyError')
 
@@ -35,7 +35,7 @@ All errors support a `code` property. This property is designed to be used for i
 so that translated text can be displayed based on the `code` rather than on the `message`.
 
 ```ts
-import { RateLimitError } from '@shapeshiftoss/errors'
+import { RateLimitError } from '@keepkey/errors'
 
 const e = new RateLimitError('Something bad happened', { code: 'ERR_RATE_LIMIT_INFURA' })
 ```

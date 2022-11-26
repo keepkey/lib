@@ -1,6 +1,6 @@
 {
   "name": "@keepkey/unchained-client",
-  "version": "10.3.0",
+  "version": "10.3.1",
   "license": "MIT",
   "main": "dist/index.js",
   "source": "src/index.ts",
@@ -31,11 +31,11 @@
     "@keepkey/types": "^8.1.0"
   },
   "devDependencies": {
+    "@keepkey/caip": "^8.4.5",
+    "@keepkey/logger": "^1.1.4",
+    "@keepkey/types": "^8.3.3",
     "@openapitools/openapi-generator-cli": "^2.5.1",
-    "@keepkey/caip": "^8.0.0",
     "@shapeshiftoss/common-api": "^8.0.0",
-    "@keepkey/logger": "^1.1.2",
-    "@keepkey/types": "^8.1.0",
     "@types/ws": "^8.2.1"
   }
 }

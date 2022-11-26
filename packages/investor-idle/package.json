@@ -1,6 +1,6 @@
 {
   "name": "@keepkey/investor-idle",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "An api layer for interaction with the ShapeShift Idle Router Contract and the Idle Vault contracts",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -37,16 +37,16 @@
   "peerDependencies": {
     "@keepkey/caip": "^8.4.2",
     "@keepkey/chain-adapters": "^10.0.0",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
-    "@keepkey/investor": "^3.0.0",
-    "@keepkey/types": "^8.3.1"
-  },
-  "devDependencies": {
-    "@keepkey/caip": "^8.4.2",
-    "@keepkey/chain-adapters": "^10.0.0",
-    "@shapeshiftoss/hdwallet-core": "^1.36.0",
     "@keepkey/investor": "^3.0.0",
     "@keepkey/types": "^8.3.1",
-    "@keepkey/unchained-client": "^10.0.2"
+    "@shapeshiftoss/hdwallet-core": "^1.36.0"
+  },
+  "devDependencies": {
+    "@keepkey/caip": "^8.4.5",
+    "@keepkey/chain-adapters": "^10.2.2",
+    "@keepkey/investor": "^3.0.2",
+    "@keepkey/types": "^8.3.3",
+    "@keepkey/unchained-client": "^10.3.1",
+    "@shapeshiftoss/hdwallet-core": "^1.36.0"
   }
 }

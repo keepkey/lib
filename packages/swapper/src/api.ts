@@ -2,7 +2,7 @@ import { Asset } from '@keepkey/asset-service'
 import { AssetId, ChainId } from '@keepkey/caip'
 import { avalanche, cosmos, ethereum, osmosis } from '@keepkey/chain-adapters'
 import { createErrorClass } from '@keepkey/errors'
-import { HDWallet } from '@shapeshiftoss/hdwallet-core'
+import { HDWallet } from '@keepkey/hdwallet-core'
 import { BIP44Params, ChainSpecific, KnownChainIds, UtxoAccountType } from '@keepkey/types'
 
 export const SwapError = createErrorClass('SwapError')

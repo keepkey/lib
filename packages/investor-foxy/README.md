@@ -1,23 +1,23 @@
-# @shapeshiftoss/investor-foxy
+# @keepkey/investor-foxy
 
 ShapeShift's Yearn investor package.
 
 ## Installation
 
 ```bash
-yarn add @shapeshiftoss/investor-foxy
+yarn add @keepkey/investor-foxy
 ```
 
 ## Initialization
 
 ```javascript
-import { FoxyApi } from '@shapeshiftoss/investor-foxy'
-import { toChainId, CHAIN_NAMESPACE, CHAIN_REFERENCE } from '@shapeshiftoss/caip'
+import { FoxyApi } from '@keepkey/investor-foxy'
+import { toChainId, CHAIN_NAMESPACE, CHAIN_REFERENCE } from '@keepkey/caip'
 
 const api = new FoxyApi({
   adapter: await adapterManager.byChainId(
     toChainId({ chainNamespace: CHAIN_NAMESPACE.Evm, chainReference: CHAIN_REFERENCE.EthereumMainnet })
-  ), // adapter is an ETH @shapeshiftoss/chain-adapters
+  ), // adapter is an ETH @keepkey/chain-adapters
   providerUrl: '<your eth node privider url>'
 })
 ```
