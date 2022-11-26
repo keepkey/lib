@@ -1,5 +1,5 @@
 import { Logger } from '@keepkey/logger'
-import type { ErrorResponse, RequestPayload, Topics, TxsTopicData } from '@keepkey/common-api'
+import type { ErrorResponse, RequestPayload, Topics, TxsTopicData } from '@shapeshiftoss/common-api'
 import WebSocket from 'isomorphic-ws'
 
 const logger = new Logger({
